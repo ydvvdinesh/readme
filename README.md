@@ -1,6 +1,6 @@
 👋 Hi, I’m **Dinesh Yadav** (@ydvvdinesh)  
 
-🎓 First-Year Engineering Student | 🤖 Robotics & AI Enthusiast | 🌐 Full-Stack Developer | 🚀 Hackathon Participant  
+🎓 Second-Year Engineering Student | 🤖 Robotics & AI Enthusiast | 🌐 Full-Stack Developer | 🚀 Hackathon Participant  
 
 ---
 
@@ -23,17 +23,11 @@
 
 ---
 
-✅ **Projects I've Completed**  
-
-- 🚗 **Advanced Bluetooth Car** – Arduino-powered, voice-controlled smart car  
-- 📥 **YouTube & Instagram Reel Downloader** – Python backend + web frontend  
-
----
 
 📫 **How to Reach Me**  
 
 - 🔗 [LinkedIn]((https://www.linkedin.com/in/dinesh-yadav-1b462831a/))  
-- 📩 Email: bawwadinesh@example.com  
+- 📩 Email: bawwadinesh@gmail.com  
 
 ---
 
